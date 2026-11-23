@@ -158,7 +158,9 @@ button {
 .producto-card.azul {
   border-top: 6px solid #1e2dd8;
 }
-
+.producto-card.verde {
+  border-top: 6px solid #04ee4a;
+}
 .producto-card.morado {
   border-top: 6px solid #25bb45;
 }
